@@ -1,2 +1,2 @@
 # Codespace-playground
-This is a repo to test the Codespace provided by github
+This is a repo to test the capabilities of the CodeSpaces provided by github. 
